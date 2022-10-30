@@ -1,5 +1,7 @@
 # COMBO-Edit0r
 Tool for editing combolists (removing duplicates, converting to user:pass, filtering emails by email service name) 
+#COMBO-C0rrect0r
+small side tool to clean the combolist from blank lines
 # Help menu
 -h | --help -----> open help menu
 
