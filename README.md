@@ -5,18 +5,18 @@ small side tool to clean the combolist from blank lines
 # Help menu
 -h | --help -----> open help menu
 
--w  ----->  -w <path to list>                     #Always required as first arg
+-w  ----->  -w (path to list) #Always required as first arg
 
 -d -----> removes duplicates from list
 
 
--f -----> -f <emailservice name>  
+-f -----> -f (emailservice name) 
 filters list by emailservice name
              
 
 -u -----> converts email:password list to user:password list
 
--o -----> -o <path to save into or set txt file name that will be saved in the current dir>
+-o -----> -o (path to save into or set txt file name that will be saved in the current dir)
           #Always required as last arg 
 
 # Example
